@@ -1,66 +1,31 @@
-# Compound Interest Calculator
+# Michael William Gerardy's Portfolio
 
-Welcome to the Compound Interest Calculator project! This simple Python application is designed to help users understand the power of compound interest over time. Created by MikGerm, a dedicated Business Analytics & Information Systems student at the University of Iowa, this project showcases the practical application of Python programming in finance.
+## About Me
 
-## Getting Started with the Calculator
+Welcome! I'm an aspiring Business Analytics & Information Systems professional with a keen eye for data analysis and a passion for efficiency in processes. Currently, I'm enriching my knowledge at the University of Iowa, aiming for a B.B.A in Business Analytics & Information Systems by 2025.
 
-To use the Compound Interest Calculator, follow these steps:
+- **Email:** [michaelgerardy18@gmail.com](mailto:michaelgerardy18@gmail.com)
+- **Phone:** 630-636-1605
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/michael-gerardy-0971a3268/)
 
-1. Ensure that Python is installed on your machine.
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/MikGerm/compound-interest-calculator.git
-   
-Sure, let's create a new README.md content for a hypothetical project. This project is going to be a simple Python application that calculates compound interest. I will incorporate your information into the README.md and organize it with different headings for each section as if it were a real, runnable project. This is just an example, so feel free to modify it as needed for your actual project.
+## Educational Path
 
-markdown
-Copy code
-# Compound Interest Calculator
+I'm navigating through a curriculum that includes Information Systems, Data Mining, and Database Management, maintaining a solid GPA of 3.0. My coursework and part-time work experiences are constructing a robust foundation for my career.
 
-Welcome to the Compound Interest Calculator project! This simple Python application is designed to help users understand the power of compound interest over time. Created by MikGerm, a dedicated Business Analytics & Information Systems student at the University of Iowa, this project showcases the practical application of Python programming in finance.
+## Skill Set
 
-## Getting Started with the Calculator
+My technical toolkit includes:
+- **Python** for data manipulation
+- **MySQL** for database management
+- **R & Excel** for analytics and visualization
+- **Access** for database design
 
-To use the Compound Interest Calculator, follow these steps:
+## Professional Development
 
-1. Ensure that Python is installed on your machine.
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/MikGerm/compound-interest-calculator.git
-Navigate to the project directory and run python calculator.py.
-Features
-This project includes the following features:
+I'm certified in Data Analysis and Dashboard Creation using Microsoft Excel. Additionally, my hands-on experience at Metrology Solutions Incorporated honed my practical skills in quality control and project management.
 
-Interactive user input for principal amount, interest rate, compounding frequency, and time period.
-Calculation of final amount after the specified time period.
-Display of total interest earned.
-How to Contribute
-Interested in contributing? Here's how you can:
+## Connect with Me
 
-Fork this repository.
-Create a new branch for your feature (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a pull request.
-License
-Distributed under the MIT License. See LICENSE for more information.
+For collaboration or inquiries, please contact me via [email](mailto:michaelgerardy18@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/michael-gerardy-0971a3268/). I'm always open to discussing new opportunities and ideas in the field of data analysis and business intelligence.
 
-Contact
-MikGerm - [Your Contact Information]
-
-Project Link: https://github.com/MikGerm/compound-interest-calculator
-
-Acknowledgments
-University of Iowa
-Python Community
-All contributors who are willing to improve this project
-Here is how you can use this template:
-
-1. Copy the entire block of Markdown text.
-2. Go to your GitHub repository for the "Hello-World" project.
-3. Click on the `README.md` file.
-4. Click on the pencil icon (Edit this file) on the right side.
-5. Paste the copied Markdown text into the editor, replacing any existing content.
-6. Scroll down and click on "Commit changes" to save and update the README.md file.
-
-This template is structured with different headings and includes an example of how to run a Python program, contribute to it, and contact information. Remember, the links and the repository name used here are placeholders; you should replace them with your actual project's details.
+Thank you for exploring my portfolio!
